@@ -1,7 +1,7 @@
 # WarmUp №2. Bacteria
 ---
 ### Task:
-![The task](https://i.imgur.com/P3pSQaM.png)
+![The task](https://i.imgur.com/oPxUZhq.png)
 
 >The program calculates the amount of red and green bacteria after all clock ticks and their total amount.
 
